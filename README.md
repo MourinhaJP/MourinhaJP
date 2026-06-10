@@ -55,6 +55,16 @@ Passionate about technology and Red Hot Chili Peppers 🎸
 
 ---
 
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MourinhaJP/MourinhaJP/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MourinhaJP/MourinhaJP/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/MourinhaJP/MourinhaJP/blob/output/github-snake.svg" />
+</picture>
+
+---
+
 ### Find me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mourinhajp.github.io/Portif-lio-Mourinha/)
