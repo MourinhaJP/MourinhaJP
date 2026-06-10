@@ -44,6 +44,17 @@ Passionate about technology and Red Hot Chili Peppers 🎸
 
 ---
 
+### Stats
+
+<div>
+  <a href="https://github.com/MourinhaJP">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MourinhaJP&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MourinhaJP&layout=compact&langs_count=16&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888"/>
+  </a>
+</div>
+
+---
+
 ### Find me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mourinhajp.github.io/Portif-lio-Mourinha/)
