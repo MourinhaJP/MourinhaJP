@@ -1,6 +1,10 @@
 # João Pedro Mourinha
 
+<div align="center">
+
 ![banner](./banner.gif)
+
+</div>
 
 Computer Science student at Cesar School, transitioning from Design.
 Passionate about technology and Red Hot Chili Peppers 🎸
@@ -27,8 +31,6 @@ Passionate about technology and Red Hot Chili Peppers 🎸
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
 
 ---
